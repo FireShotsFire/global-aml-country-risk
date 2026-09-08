@@ -1,6 +1,6 @@
 # 🌍 Global AML/CFT Country Risk Index (GACRI)
 
-An independent analytical framework combining FATF, EU AMLR (Regulation EU 2024/1624), AML/CFT effectiveness (FATF Mutual Evaluations), and additional jurisdictional risk indicators into a transparent, reproducible 0–100 country-risk score.
+An independent analytical framework combining FATF, EU AMLR (Regulation EU 2024/1624), AML/CFT effectiveness (FATF Mutual Evaluations), and additional jurisdictional risk indicators into a transparent, reproducible 0-100 country-risk score.
 
 ## Features
 - 🌍 **Interactive Global Risk Map** with Plotly click-selection
@@ -21,7 +21,6 @@ An independent analytical framework combining FATF, EU AMLR (Regulation EU 2024/
 | **Sanctions / PF** | 5% | UN Consolidated Sanctions & PF Indicators |
 
 ## Disclaimer
-This project is an independent analytical model. It is not an official FATF, European Union, AMLA, governmental, or regulatory risk rating.
+This project is an independent analytical model and not an official FATF, European Union, AMLA, governmental, or regulatory risk rating.
 
-## Tech Stack
-`Python` | `Streamlit` | `Pandas` | `Plotly` | `GitHub`
+
